@@ -1,7 +1,7 @@
 
 public class Move {
     
-	public static final String checkBounds = null;
+	public static String checkBounds = null;
 	
 	public int oneX = 200; // Starting X coordinate
     public int oneY = 40; // Starting Y coordinate
